@@ -1,1 +1,1 @@
-# https://osman-ordu.github.io/dragndrop/
+# https://osman-ordu.github.io/Drag-n-drop/
